@@ -1,7 +1,7 @@
 # horse_second_images
 
 #### 介绍
-第二个giteet图床
+
 
 #### 软件架构
 软件架构说明
